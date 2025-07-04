@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gran Estilo G</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fdf8f5;
+            color: #444;
+        }
+
+        header {
+            background-color: #e5cce1;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .logo {
+            font-size: 4em;
+            color: #9c4e9f;
+        }
+
+        .flowers {
+            font-size: 1.5em;
+            color: #cc7a8b;
+        }
+
+        nav {
+            background-color: #fff;
+            text-align: center;
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #9c4e9f;
+            font-weight: bold;
+        }
+
+        .seccion {
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #e5cce1;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">G</div>
+        <div class="flowers">🌸🌼🌺🌷</div>
+        <h1>Gran estilo, segunda vida</h1>
+    </header>
+
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Catálogo</a>
+        <a href="#">Sobre Nosotras</a>
+        <a href="#">Contacto</a>
+    </nav>
+
+    <div class="seccion">
+        <h2>Bienvenida a tu tienda de ropa de medio uso</h2>
+        <p>Prendas con historia, estilo único y precios accesibles. 🌿</p>
+        <img src="https://via.placeholder.com/300x200?text=Tu+imagen+de+ropa" alt="Imagen de Ropa" />
+    </div>
+
+    <footer>
+        <p>© 2025 Gran Estilo G | Ropa con alma 🌷</p>
+    </footer>
+
+</body>
+</html>
